@@ -17,3 +17,9 @@ Furthermore, by providing the destination, we can easily obtain the shortest rou
 
 # Implementation
 To begin, in order to solve the minimum vehicle problem, we created an algorithm based on coin denomination and modified it to meet the needs of our project. When a user enters a weight, the algorithm will automatically divide that weight by the vehicle's capacity, which we have already specified in the code, and output the smallest number of vehicles required to transport the goods. And to find the shortest route for goods transportation, we used Dijkstra's algorithm with a (33x33) adjacency matrix, using all of Rajasthan's districts as nodes/vertices and routes between them as edges. And we have chosen our sources/warehouses in Jaipur, Udaipur, and Jaisalmer, and when the user enters the destination, it will show the shortest route distance available as well as the via cities that will come in that route. It will also show the cost of travelling on that route.
+
+# Group Members
+* Keshaw Soni
+* Kondrolla Dinesh Reddy
+* Rahul Jain
+* Somya Gautam
