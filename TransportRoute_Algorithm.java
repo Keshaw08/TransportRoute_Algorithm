@@ -159,7 +159,7 @@ public class TransportRoute_Algorithm {
         for(int i=0;i<district_Raj.length;i++) {
         	if(district_Raj[i].equals(destination)) dest = i;
         }
-        //data
+        //data for Rajsthan.
         double[][] adjacencyMatrix = {
         		{0,	0,	0,	0,	0,	135,	0,	165,	0,	0,	0,	0,	489,	135,	0,	0,	0,	0,	220,	0,	148,	168,	172,	306,	0,	175,	263,	0,	0,	204,	419,	0,	0},
         		{0,	0,	0,	0,	114,	0,	434,	0,	0,	0,	0,	0,	483,	159,	0,	0,	0,	173,	0,	0,	384,	0,	213,	0,	0,	230,	0,	0,	97,	509,	393,	150,	0},
